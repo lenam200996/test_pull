@@ -1,3 +1,7 @@
 aaaaacccccaaaaaaaabbbbbbaaaa
 bbbbbbbb
+<<<<<<< HEAD
 asdhsadas 
+=======
+aaaaa
+>>>>>>> bee5550f5081e9273b4eb8e43484959140048f43
